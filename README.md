@@ -1,4 +1,4 @@
-# MAS_open
+# MAS: Masked Attention by Segment 
 
 ## Table of Contents
 1. [Description](#description)
@@ -36,3 +36,14 @@ We provide a pre-trained MAS model in the `trained_models_and_results` directory
 
 [] Release code.
 
+
+## Citing
+
+```bibtex
+@article{katzRingel2024MAS,
+  title={Segment-Based Attention Masking for GPTs},
+  author={Shahar Katz and Liran Ringel and Yaniv Romano and Lior Wolf},
+  journal={arXiv preprint arXiv:2412.18487},
+  year={2024}
+}
+```
