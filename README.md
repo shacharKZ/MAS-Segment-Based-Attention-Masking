@@ -8,7 +8,7 @@
 ## Description
 This repo will contain the official code for the paper: *Segment-Based Attention Masking for GPTs*.
 
-Meanwhile, as a demo, we share model weights and a notebook visualizing MAS attentnion maps.
+Meanwhile, as a demo, we share model weights and a notebook visualizing MAS attention maps.
 ## Installation
 
 ### Prerequisites
